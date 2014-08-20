@@ -1,4 +1,4 @@
 webrtc-client
 =============
 
-WebRTC project 
+WebRTC project developed in 2014
